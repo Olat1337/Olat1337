@@ -3,7 +3,11 @@
   <h3>AI & Data Science Engineer</h3>
   <p><i>Bioinformatics Student @ Poznan University of Technology</i></p>
   
-  <br>
+  <a href="https://kyrylo-kudrevych-portfolio.up.railway.app/">
+    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-10b981?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+
+  <br><br>
 
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Engineering-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -13,10 +17,9 @@
 ### 👨‍💻 About Me
 I am an **AI & Data Science Engineer** based in Poznań, Poland. I specialize in building end-to-end Machine Learning pipelines, designing Retrieval-Augmented Generation (RAG) architectures, and deploying robust data-driven applications. I focus on transforming raw data into highly accurate predictive models and scalable software solutions.
 
-- 🧬 **B.Sc. in Bioinformatics** student at Poznan University of Technology, applying advanced ML to complex datasets.
+- 🧬 **B.Sc. in Bioinformatics** student at Poznan University of Technology.
 - 🏆 **NVIDIA DLI Certified** in Fundamentals of Deep Learning.
-- 🧠 Former Machine Learning/Data Science researcher at **GHOST** (Group Of Horribly Optimistic STatisticians) & **KNBI** (Bioinformatics Scientific Club).
-- 💬 Ask me about: **Machine Learning, RAG Systems, Data Pipelines, and Python.**
+- 🧠 Former Researcher at **GHOST** & **KNBI**.
 - 📫 Reach out to me: **[kyrylo.kudrevych@gmail.com](mailto:kyrylo.kudrevych@gmail.com)**
 
 ### 🛠️ Tech Stack & Tools
@@ -34,27 +37,28 @@ I am an **AI & Data Science Engineer** based in Poznań, Poland. I specialize in
 **Data Engineering & Visualization**<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
 **Frameworks & Tools**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Featured Projects
 
 #### [🏡 Poznań Rent Radar: Real Estate Valuation Engine](https://github.com/Olat1337/poznan-rent-radar)
-An end-to-end Machine Learning microservices application predicting fair market rental prices in Poznań. Built from scratch with web scraping, EDA, and a live cloud deployment.
-* **Stack:** FastAPI, Streamlit, Scikit-Learn (Random Forest), Pandas, NumPy
-* **Highlights:** Leak-free Train/Test splits, Log Transformations, Independent CI/CD deployments on Railway.
+**[👉 View Live Demo](https://poznan-rent-radar-ui.up.railway.app/)** | **[🐙 View Source Code](https://github.com/Olat1337/poznan-rent-radar)**
+An end-to-end Machine Learning microservices application predicting fair market rental prices in Poznań.
+* **Stack:** FastAPI, Streamlit, Scikit-Learn (Random Forest), Pandas
+* **Highlights:** Log-transformed features, independent CI/CD deployment.
 
 #### [🃏 Poker Tournament Judge AI: RAG-Powered Rule Enforcer](https://github.com/Olat1337/poker-judge)
-A strict, hallucination-free AI poker referee utilizing a Retrieval-Augmented Generation (RAG) architecture. It parses the official TDA rulebook and answers situational disputes.
-* **Stack:** LangChain, Llama 3 (via local Ollama), ChromaDB, HuggingFace Embeddings, aiogram, Streamlit
-* **Highlights:** 100% local/private execution, conversational memory, Telegram bot with multi-tenant isolation, and a web UI.
+**[🐙 View Source Code](https://github.com/Olat1337/poker-judge)**
+A hallucination-free AI referee resolving complex game disputes from the TDA rulebook.
+* **Stack:** LangChain, Llama 3 (Ollama), ChromaDB, aiogram
+* **Highlights:** 100% local/private execution, conversational memory, Telegram bot interface.
 
 #### [🎮 Global Video Game Sales Predictor](https://github.com/Olat1337/video-game-sales-prediction)
-A data science pipeline analyzing the gaming market. It predicts global sales based purely on pre-release categorical data and examines how decision trees handle massive industry outliers.
-* **Stack:** Python, Scikit-Learn, Pandas, Seaborn, Matplotlib
-* **Highlights:** Log-scale scatter plots with acceptable error bands, categorical feature encoding, and rigorous overfitting analysis.
+**[🐙 View Source Code](https://github.com/Olat1337/video-game-sales-prediction)**
+A predictive analytics pipeline analyzing the gaming market, benchmarking regression models against categorical data.
+* **Stack:** Python, Scikit-Learn, Pandas, Matplotlib
+* **Highlights:** Log-scale scatter plot visualization, error-band analysis for industry outliers.
