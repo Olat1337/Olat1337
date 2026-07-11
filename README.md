@@ -52,7 +52,7 @@ I am a Bioinformatics student at Poznan University of Technology focused on mach
 ### 🚀 Projects
 
 #### 🏡 Poznań Rent Radar: Real Estate Valuation Engine
-**[👉 View Live Demo](https://poznan-rent-radar-ui.up.railway.app/)** | **[🐙 View Source Code](https://github.com/Olat1337/poznan-rent-radar)**
+**[👉 View Live Demo](https://poznan-rent-radar-ui.up.railway.app/)** | **[🔗 View Source Code](https://github.com/Olat1337/poznan-rent-radar)**
 A rent price estimator for the Poznań market.
 * **Stack:** Python, FastAPI, Streamlit, Scikit-Learn
 * **Highlights:**
@@ -61,7 +61,7 @@ A rent price estimator for the Poznań market.
 interactions.
 
 #### 🃏 Poker Tournament Judge AI: RAG-Powered Rule Enforcer
-**[🐙 View Source Code](https://github.com/Olat1337/poker-judge)**
+**[🔗 View Source Code](https://github.com/Olat1337/poker-judge)**
 A local RAG application that answers rule disputes based on the official TDA poker rulebook.
 * **Stack:** LangChain, Llama 3, ChromaDB, aiogram
 * **Highlights:**
