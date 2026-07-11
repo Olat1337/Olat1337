@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Kyrylo Kudrevych 👋</h1>
   <h3>Bioinformatics Student @ PUT | Data & Software Engineering</h3>
-  <p><i>Building deployed ML & RAG projects | Seeking 2026 Data/SWE Internship</i></p>
+  <p><i>Building deployed ML & RAG projects | Seeking 2026 Data/ML/SWE Internship</i></p>
   
   <a href="https://kyrylo-kudrevych-portfolio.up.railway.app/">
     <img src="https://img.shields.io/badge/View_Interactive_Portfolio-10b981?style=for-the-badge&logo=openai&logoColor=white" />
