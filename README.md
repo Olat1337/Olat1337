@@ -57,7 +57,7 @@ A rent price estimator for the Poznań market.
 * **Stack:** Python, FastAPI, Streamlit, Scikit-Learn, CatBoost
 * **Highlights:**
   * Scrapes rental listings, trains a CatBoost model (validation MAE ~307 PLN), and serves predictions through a FastAPI API.
-  * Compared several models and chose CatBoost because it gave the best results on the dataset.
+  * Compared several models and chose CatBoost after benchmarking on log-transformed prices.
   * Deployed with Railway and set up a simple CI/CD pipeline for automatic updates.
 
 #### 🃏 Poker Tournament Judge AI: RAG-Powered Rule Enforcer
