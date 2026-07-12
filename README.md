@@ -56,9 +56,8 @@ I am a Bioinformatics student at Poznan University of Technology focused on mach
 A rent price estimator for the Poznań market.
 * **Stack:** Python, FastAPI, Streamlit, Scikit-Learn
 * **Highlights:**
-  * Scrapes live rental listings, trains a Random Forest model reaching a validation MAE of around 337 PLN, and is deployed as a FastAPI microservice with automated CI/CD on Railway.
-  * Chose Random Forest over linear models after benchmarking on log-transformed prices to handle non-linear feature
-interactions.
+  * Scrapes live rental listings, trains a CatBoost model reaching a validation MAE of around 337 PLN, and is deployed as a FastAPI microservice with automated CI/CD on Railway.
+  * Chose CatBoost over linear models after benchmarking on log-transformed prices to handle non-linear feature interactions and categorical data more effectively.
 
 #### 🃏 Poker Tournament Judge AI: RAG-Powered Rule Enforcer
 **[🔗 View Source Code](https://github.com/Olat1337/poker-judge)**
