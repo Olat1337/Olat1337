@@ -54,10 +54,11 @@ I am a Bioinformatics student at Poznan University of Technology focused on mach
 #### 🏡 Poznań Rent Radar: Real Estate Valuation Engine
 **[👉 View Live Demo](https://poznan-rent-radar-ui.up.railway.app/)** | **[🔗 View Source Code](https://github.com/Olat1337/poznan-rent-radar)**
 A rent price estimator for the Poznań market.
-* **Stack:** Python, FastAPI, Streamlit, Scikit-Learn
+* **Stack:** Python, FastAPI, Streamlit, Scikit-Learn, CatBoost
 * **Highlights:**
-  * Scrapes live rental listings, trains a CatBoost model reaching a validation MAE of around 337 PLN, and is deployed as a FastAPI microservice with automated CI/CD on Railway.
-  * Chose CatBoost over linear models after benchmarking on log-transformed prices to handle non-linear feature interactions and categorical data more effectively.
+  * Scrapes rental listings, trains a CatBoost model (validation MAE ~307 PLN), and serves predictions through a FastAPI API.
+  * Compared several models and chose CatBoost because it gave the best results on the dataset.
+  * Deployed with Railway and set up a simple CI/CD pipeline for automatic updates.
 
 #### 🃏 Poker Tournament Judge AI: RAG-Powered Rule Enforcer
 **[🔗 View Source Code](https://github.com/Olat1337/poker-judge)**
