@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Kyrylo Kudrevych</h1>
-  <h3>ML, Data Science, AI & SWE Builder | Section Leader @ GHOST | Bioinformatics @ PUT</h3>
+  <h3>Machine Learning, Data Science, AI & SWE | End-to-End Data Science & Intro to ML Lead @ GHOST</h3>
   <p>Building end-to-end ML, Data Science, RAG, and Backend Applications.<br>
-  <b>Open to ML, Data Science, AI Engineering & SWE Internships</b> (Poland or Remote EU · Available immediately, flexible hours)</p>
+  <b>Open to ML, Data Science, AI Engineering & SWE Internships</b> (Poland or Remote EU | Available immediately, flexible hours)</p>
 
   <a href="https://www.linkedin.com/in/kyrylo-kudrevych/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,9 +18,9 @@
 
 Bioinformatics undergraduate at Poznan University of Technology focused on **Machine Learning, Data Science, AI Engineering, and Software Engineering**. I work across both sides of the stack: modeling and statistics from first principles, and the Python APIs, data pipelines, and CI/CD workflows that ship them as working software.
 
-- **Leadership:** Section Leader (**End-to-End Data Science** — mentoring ~14 active builders; **Intro to ML** — launched with 47 attendees) & Board Secretary at **GHOST** (PUT's ML scientific circle). Also on the Sponsors Team for **GHOST Day: AMLC 2027**.
-- **Education:** B.Sc. in Bioinformatics, Poznan University of Technology (Oct 2024 – Apr 2028) — Data Structures, Algorithms, Relational Databases (SQL), Statistics.
-- **Certifications:** NVIDIA DLI — Fundamentals of Deep Learning (2025); Kaggle Learn — Advanced SQL, Intermediate ML & Time Series (2026).
+- **Leadership:** Section Leader (**End-to-End Data Science** - mentoring ~14 active builders; **Intro to ML** - launched with 47 attendees) & Board Secretary at **GHOST** (PUT's AI scientific circle). Also on the Sponsors Team for **GHOST Day: AMLC 2027**.
+- **Education:** B.Sc. in Bioinformatics, Poznan University of Technology (Oct 2024 - Apr 2028) - Data Structures, Algorithms, Relational Databases (SQL), Statistics.
+- **Certifications:** NVIDIA DLI - Fundamentals of Deep Learning (2025); Kaggle Learn - Advanced SQL, Intermediate ML & Time Series (2026).
 - **Languages:** English (C1), Polish (C1), Ukrainian (Native), Russian (Bilingual).
 - **Contact:** [kyrylo.kudrevych@gmail.com](mailto:kyrylo.kudrevych@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kyrylo-kudrevych/)
 
@@ -58,13 +58,13 @@ Bioinformatics undergraduate at Poznan University of Technology focused on **Mac
 
 ### Featured Projects
 
-#### [Poznań Rent Radar — End-to-End Rental Price Prediction Service](https://github.com/Olat1337/poznan-rent-radar)
-`Python` · `CatBoost` · `Optuna` · `Scikit-Learn` · `FastAPI` · `Streamlit` · `CI/CD`
+#### [Poznań Rent Radar - End-to-End Rental Price Prediction Service](https://github.com/Olat1337/poznan-rent-radar)
+`Python` | `CatBoost` | `Optuna` | `Scikit-Learn` | `FastAPI` | `Streamlit` | `CI/CD`
 - Engineered an automated scraping, cleaning, and feature-engineering pipeline over ~1,000 live Poznań rental listings.
 - Benchmarked linear and gradient boosting models on log-transformed target prices with Optuna tuning; selected **CatBoost (~307 PLN validation MAE)** to capture non-linear feature interactions.
 - Built the inference service as a **FastAPI** backend with a **Streamlit** UI and an automated Railway CI/CD pipeline.
 
-#### [Poker Tournament Judge — Offline-First Local RAG Assistant](https://github.com/Olat1337/poker-judge)
-`Python` · `LangChain` · `Llama 3 (Ollama)` · `ChromaDB` · `HuggingFace` · `aiogram`
+#### [Poker Tournament Judge - Offline-First Local RAG Assistant](https://github.com/Olat1337/poker-judge)
+`Python` | `LangChain` | `Llama 3 (Ollama)` | `ChromaDB` | `HuggingFace` | `aiogram`
 - Built a fully local Retrieval-Augmented Generation (RAG) system over the official TDA Poker Rulebook using LangChain, Hugging Face embeddings, ChromaDB, and Llama 3 via Ollama.
 - Delivered as an async Telegram bot (`aiogram`) with per-chat conversation memory and rule-grounded citations at zero external API cost.
