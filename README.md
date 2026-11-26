@@ -1,69 +1,70 @@
 <div align="center">
-  <h1>Hi there, I'm Kyrylo Kudrevych 👋</h1>
-  <h3>Bioinformatics Student @ PUT | Data & Software Engineering</h3>
-  <p><i>Building deployed ML & RAG projects | Seeking 2026 Data/ML/SWE Internship</i></p>
-  
-  <a href="https://kyrylo-kudrevych-portfolio.up.railway.app/">
-    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-10b981?style=for-the-badge&logo=openai&logoColor=white" />
+  <h1>Kyrylo Kudrevych</h1>
+  <h3>ML, Data Science, AI & SWE Builder | Section Leader @ GHOST | Bioinformatics @ PUT</h3>
+  <p>Building end-to-end ML, Data Science, RAG, and Backend Applications.<br>
+  <b>Open to ML, Data Science, AI Engineering & SWE Internships</b> (Poland or Remote EU · Available immediately, flexible hours)</p>
+
+  <a href="https://www.linkedin.com/in/kyrylo-kudrevych/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" />
+  <a href="mailto:kyrylo.kudrevych@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-### 👨‍💻 About Me
-I am a Bioinformatics student at Poznan University of Technology focused on machine learning and data application development. I learn by building complete projects and deploying them as working applications. I am actively seeking a data, machine learning, or software engineering internship for 2026/2027. I am open to opportunities in Poland and remote across the EU.
+---
 
-- 🧬 **Education:** B.Sc. in Bioinformatics, Poznan University of Technology (Expected Apr 2028).
-- 🏆 **Certifications:** NVIDIA DLI - Fundamentals of Deep Learning (2025); Kaggle - Advanced SQL, Intermediate ML, Time Series (2026).
-- 🧠 **Experience:** Member of the Data Science Section at GHOST Student Scientific Circle and KNBI Bioinformatics Student Association.
-- 📫 **Contact:** [kyrylo.kudrevych@gmail.com](mailto:kyrylo.kudrevych@gmail.com)
+### About
 
-### 🛠️ Tech Stack & Tools
+Bioinformatics undergraduate at Poznan University of Technology focused on **Machine Learning, Data Science, AI Engineering, and Software Engineering**. I work across both sides of the stack: modeling and statistics from first principles, and the Python APIs, data pipelines, and CI/CD workflows that ship them as working software.
 
-**Languages & Databases**<br>
+- **Leadership:** Section Leader (**End-to-End Data Science** — mentoring ~14 active builders; **Intro to ML** — launched with 47 attendees) & Board Secretary at **GHOST** (PUT's ML scientific circle). Also on the Sponsors Team for **GHOST Day: AMLC 2027**.
+- **Education:** B.Sc. in Bioinformatics, Poznan University of Technology (Oct 2024 – Apr 2028) — Data Structures, Algorithms, Relational Databases (SQL), Statistics.
+- **Certifications:** NVIDIA DLI — Fundamentals of Deep Learning (2025); Kaggle Learn — Advanced SQL, Intermediate ML & Time Series (2026).
+- **Languages:** English (C1), Polish (C1), Ukrainian (Native), Russian (Bilingual).
+- **Contact:** [kyrylo.kudrevych@gmail.com](mailto:kyrylo.kudrevych@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kyrylo-kudrevych/)
+
+---
+
+### Tech Stack
+
+**Languages & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Machine Learning & AI**<br>
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch_(Learning)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-12B981?style=for-the-badge&logo=chroma&logoColor=white)
-
-**Data Engineering & Visualization**<br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C6984?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C6984?style=for-the-badge)
 
-**Frameworks & Tools**<br>
+**Machine Learning & AI**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Optuna](https://img.shields.io/badge/Optuna-2563EB?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-10B981?style=for-the-badge)
+
+**Backend, MLOps & Tooling**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🚀 Projects
+---
 
-#### 🏡 Poznań Rent Radar: Real Estate Valuation Engine
-**[👉 View Live Demo](https://poznan-rent-radar-ui.up.railway.app/)** | **[🔗 View Source Code](https://github.com/Olat1337/poznan-rent-radar)**
-A rent price estimator for the Poznań market.
-* **Stack:** Python, FastAPI, Streamlit, Scikit-Learn, CatBoost
-* **Highlights:**
-  * Scrapes rental listings, trains a CatBoost model (validation MAE ~307 PLN), and serves predictions through a FastAPI API.
-  * Compared several models and chose CatBoost after benchmarking on log-transformed prices.
-  * Deployed with Railway and set up a simple CI/CD pipeline for automatic updates.
+### Featured Projects
 
-#### 🃏 Poker Tournament Judge AI: RAG-Powered Rule Enforcer
-**[🔗 View Source Code](https://github.com/Olat1337/poker-judge)**
-A local RAG application that answers rule disputes based on the official TDA poker rulebook.
-* **Stack:** LangChain, Llama 3, ChromaDB, aiogram
-* **Highlights:**
-  * Delivered as an async Telegram bot running fully offline via Ollama, with responses perfectly grounded in retrieved rule citations.
-  * Selected local inference via Ollama over API-based models to keep the system fully offline and free of per-request costs.
+#### [Poznań Rent Radar — End-to-End Rental Price Prediction Service](https://github.com/Olat1337/poznan-rent-radar)
+`Python` · `CatBoost` · `Optuna` · `Scikit-Learn` · `FastAPI` · `Streamlit` · `CI/CD`
+- Engineered an automated scraping, cleaning, and feature-engineering pipeline over ~1,000 live Poznań rental listings.
+- Benchmarked linear and gradient boosting models on log-transformed target prices with Optuna tuning; selected **CatBoost (~307 PLN validation MAE)** to capture non-linear feature interactions.
+- Built the inference service as a **FastAPI** backend with a **Streamlit** UI and an automated Railway CI/CD pipeline.
+
+#### [Poker Tournament Judge — Offline-First Local RAG Assistant](https://github.com/Olat1337/poker-judge)
+`Python` · `LangChain` · `Llama 3 (Ollama)` · `ChromaDB` · `HuggingFace` · `aiogram`
+- Built a fully local Retrieval-Augmented Generation (RAG) system over the official TDA Poker Rulebook using LangChain, Hugging Face embeddings, ChromaDB, and Llama 3 via Ollama.
+- Delivered as an async Telegram bot (`aiogram`) with per-chat conversation memory and rule-grounded citations at zero external API cost.
